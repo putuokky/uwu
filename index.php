@@ -1262,7 +1262,7 @@
           document.getElementById("quote").innerHTML = txt;
         txt2 = txt;
       } else if (H < 21) {
-        txt = 'Selamat Malam Sayang Syah, Aku Cinta Kamu :*';
+        txt = 'Selamat Malam Sayang, Aku Cinta Kamu :*';
         if (txt != txt2 && !starting)
           document.getElementById("quote").innerHTML = txt;
         txt2 = txt;
