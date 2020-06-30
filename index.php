@@ -1242,12 +1242,12 @@
           document.getElementById("quote").innerHTML = txt;
         txt2 = txt;
       } else if (H < 9) {
-        txt = 'Selamat Pagi Afriza, Jangan Lupa Sarapan Sayangg';
+        txt = 'Selamat Pagi, Jangan Lupa Sarapan Sayangg';
         if (txt != txt2 && !starting)
           document.getElementById("quote").innerHTML = txt;
         txt2 = txt;
       } else if (H < 12) {
-        txt = 'Selamat Siang Iza, Jangan Lupa Mandi, Biar Gabau :P';
+        txt = 'Selamat Siang, Jangan Lupa Mandi, Biar Gabau :P';
         if (txt != txt2 && !starting)
           document.getElementById("quote").innerHTML = txt;
         txt2 = txt;
