@@ -1257,7 +1257,7 @@
           document.getElementById("quote").innerHTML = txt;
         txt2 = txt;
       } else if (H < 18) {
-        txt = 'Udah Mau Maghrib, Jangan Kemana2 Sayang!';
+        txt = 'Udah Sandikala, Jangan Kemana2 Sayang :*';
         if (txt != txt2 && !starting)
           document.getElementById("quote").innerHTML = txt;
         txt2 = txt;
